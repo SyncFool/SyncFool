@@ -29,7 +29,6 @@ Development experience in a product-based company..</h3
                <a href="https://twitter.com/SyncFool" target="blank"><img align="center" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Vivek Singh" height="50" width="50" /></a>
 </p>
    <hr>
-  
     <br />
      <br />
   <h3> 🚀 Languages and Tools:</h3>
