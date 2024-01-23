@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Vivek Singh</h1>
-<img src="https://ibb.co/cQW679X" />
+<img src="https://i.ibb.co/7K3n6DN/Keep-it-simple-1.jpg" />
 
 <h3 align="center">Enthusiastic Full Stack Web Developer specialized in MERN stack. Keen
 interest in learning new things and working with dynamic teams. Practiced
@@ -20,13 +20,14 @@ Development experience in a product-based company..</h3
 
 - 📫 How to reach me <b>*vivekwdevelopement@gmail.com*</b>
 
-- <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/> <a href="https://www.linkedin.com/in/vivekmtr/">@vivekmtr </a>
-
-- <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/twitter.png" alt="twitter"/> <a href="https://twitter.com/SyncFool">@SyncFool </a>
-
 - 📄 Know about my work in my <b><a href="" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
+
+-  <h3 >Connect with me:</h3>
+<p align="centre">
+               <a href="https://twitter.com/SyncFool" target="blank"><img align="center" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Vivek Singh" height="50" width="50" /></a>
+</p>
    <hr>
   
     <br />
@@ -58,8 +59,7 @@ Development experience in a product-based company..</h3
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
      <br />
      <br />
-
-    <hr>
+      <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
     <code>
